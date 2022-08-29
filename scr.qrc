@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/pix">
+        <file>long.png</file>
+        <file>WHUT.jpg</file>
+        <file>sp_a.png</file>
+        <file>fuwo.png</file>
+        <file>p.png</file>
+        <file>youce.png</file>
+        <file>youcequtui.png</file>
+        <file>zuoce.png</file>
+        <file>zuocequtui.png</file>
+        <file>warning.png</file>
+        <file>kongchuang.png</file>
+    </qresource>
+</RCC>
